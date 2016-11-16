@@ -15,6 +15,7 @@
 		4DA6BC771DD8B0B800FFA4F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DA6BC751DD8B0B800FFA4F7 /* LaunchScreen.storyboard */; };
 		4DA6BC821DD8B0B800FFA4F7 /* YWPrgoressTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA6BC811DD8B0B800FFA4F7 /* YWPrgoressTests.m */; };
 		4DA6BC8D1DD8B0B800FFA4F7 /* YWPrgoressUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA6BC8C1DD8B0B800FFA4F7 /* YWPrgoressUITests.m */; };
+		4DA6BC9C1DD8B11700FFA4F7 /* YWProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA6BC9B1DD8B11700FFA4F7 /* YWProgress.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		4DA6BC881DD8B0B800FFA4F7 /* YWPrgoressUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YWPrgoressUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DA6BC8C1DD8B0B800FFA4F7 /* YWPrgoressUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YWPrgoressUITests.m; sourceTree = "<group>"; };
 		4DA6BC8E1DD8B0B800FFA4F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DA6BC9A1DD8B11700FFA4F7 /* YWProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YWProgress.h; sourceTree = "<group>"; };
+		4DA6BC9B1DD8B11700FFA4F7 /* YWProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YWProgress.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 		4DA6BC661DD8B0B800FFA4F7 /* YWPrgoress */ = {
 			isa = PBXGroup;
 			children = (
+				4DA6BC9A1DD8B11700FFA4F7 /* YWProgress.h */,
+				4DA6BC9B1DD8B11700FFA4F7 /* YWProgress.m */,
 				4DA6BC6A1DD8B0B800FFA4F7 /* AppDelegate.h */,
 				4DA6BC6B1DD8B0B800FFA4F7 /* AppDelegate.m */,
 				4DA6BC6D1DD8B0B800FFA4F7 /* ViewController.h */,
@@ -276,6 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DA6BC9C1DD8B11700FFA4F7 /* YWProgress.m in Sources */,
 				4DA6BC6F1DD8B0B800FFA4F7 /* ViewController.m in Sources */,
 				4DA6BC6C1DD8B0B800FFA4F7 /* AppDelegate.m in Sources */,
 				4DA6BC691DD8B0B800FFA4F7 /* main.m in Sources */,
