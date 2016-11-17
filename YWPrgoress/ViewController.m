@@ -4,7 +4,7 @@
 //
 //  Created by wyw on 16/11/13.
 //  Copyright © 2016年 wyw. All rights reserved.
-//
+// 
 
 #import "ViewController.h"
 #import "YWProgress.h"
@@ -34,11 +34,12 @@
     [super viewDidLoad];
  
 }
-
+// 开始动画
 - (IBAction)start:(id)sender {
     
     [self.proV startAnimotion];
 }
+// 关闭动画
 - (IBAction)stop:(id)sender {
     [self.proV stopAnimotion];
 }
