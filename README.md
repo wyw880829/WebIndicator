@@ -27,7 +27,4 @@
 ## 展示
 <<<<<<< HEAD
 ![示例图片](https://git.oschina.net/Style_wyw/Style_ywImages/raw/master/images/indicator.gif?dir=0&filepath=images%2Findicator.gif&oid=474162241b5dba9b6dc552f5bab2046d77e8c69f&sha=6f44239605741e66d4cc87553afef0afd94bc567)
-=======
-![示例图片](https://git.oschina.net/Style_wyw/Style_ywImages/raw/master/images/indicator.gif?dir=0&filepath=images%2Findicator.gif&oid=474162241b5dba9b6dc552f5bab2046d77e8c69f&sha=6f44239605741e66d4cc87553afef0afd94bc567)
-  
->>>>>>> 9c1acd11bc18d41890636506d2a7689bb95fdce0
+
